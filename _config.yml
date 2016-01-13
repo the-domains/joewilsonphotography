@@ -1,7 +1,7 @@
 name: JoeWilsonPhotography
 favicon: null
-layout_spectrum: 0.79487
-typography_spectrum: 0.76919
+layout_spectrum: 0.24641
+typography_spectrum: 0.23986
 title: 'Sharing My Photography Passion With You !'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.25
-  lightness: 0.04877576045691967
-  saturation: 0.125
-  rhythmicContrast: 0.25
+  brandStrength: 0.75
+  lightness: 0.75
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
