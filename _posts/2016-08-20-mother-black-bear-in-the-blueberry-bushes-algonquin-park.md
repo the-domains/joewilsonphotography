@@ -1,13 +1,13 @@
 ---
-description: Mother Black Bear In The Blueberry Bushes Algonquin Park
-dateModified: '2016-08-20T17:18:19.875Z'
-datePublished: '2016-08-20T17:18:30.403Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-20T17:24:55.248Z'
 sourcePath: _posts/2016-08-20-mother-black-bear-in-the-blueberry-bushes-algonquin-park.md
+author: []
+via: {}
+dateModified: '2016-08-20T17:24:54.974Z'
+title: ''
+publisher: {}
+description: Mother Black Bear In The Blueberry Bushes Algonquin Park
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
