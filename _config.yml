@@ -1,7 +1,18 @@
+layout_spectrum: 0.5798253428656608
+typography_spectrum: 0.4055770926643163
+color:
+  brandColors:
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
+  brandStrength: 0.46679829922504723
+  lightness: 0.459230360109359
+  saturation: 0.018567963736131787
+  rhythmicContrast: 0.667369662085548
 name: JoeWilsonPhotography
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.7515
 title: Sharing My Photography Passion With You !
 cta:
   domain: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#040301'
-    - '#81644d'
-    - '#534019'
-    - '#c1a880'
-    - '#e7e7e7'
-  brandStrength: 0.5
-  lightness: 0.75
-  saturation: 0.5625
-  rhythmicContrast: 0.75
 purpose: []
