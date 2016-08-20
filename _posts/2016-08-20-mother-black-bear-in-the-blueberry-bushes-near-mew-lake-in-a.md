@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-20T16:22:40.178Z'
+datePublished: '2016-08-20T16:24:40.762Z'
 sourcePath: >-
   _posts/2016-08-20-mother-black-bear-in-the-blueberry-bushes-near-mew-lake-in-a.md
 author: []
 via: {}
-dateModified: '2016-08-20T16:22:39.911Z'
+dateModified: '2016-08-20T16:24:40.485Z'
 title: >-
   Mother Black Bear in the Blueberry Bushes near Mew Lake in Algonquin Park this
   past July
