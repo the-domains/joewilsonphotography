@@ -1,4 +1,3 @@
-layout_spectrum: 0.5798253428656608
 typography_spectrum: 0.4055770926643163
 color:
   brandColors:
@@ -11,19 +10,20 @@ color:
   lightness: 0.459230360109359
   saturation: 0.018567963736131787
   rhythmicContrast: 0.667369662085548
-name: JoeWilsonPhotography
-favicon: null
-title: Sharing My Photography Passion With You !
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.5798253428656608
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: JoeWilsonPhotography
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Joe Wilson Photography
 purpose: []
