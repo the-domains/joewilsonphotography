@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-20T16:45:01.198Z'
+datePublished: '2016-08-20T16:48:48.251Z'
 sourcePath: >-
   _posts/2016-08-20-mother-black-bear-in-the-blueberry-bushes-near-mew-lake-in-a.md
 author: []
 via: {}
-dateModified: '2016-08-20T16:44:42.617Z'
+dateModified: '2016-08-20T16:48:33.869Z'
 title: ''
 publisher:
   name: Joe Wilson
