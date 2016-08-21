@@ -1,4 +1,4 @@
-name: JoeWilsonPhotography
+name: Joe Wilson Photography
 favicon: null
 layout_spectrum: 0.5798253428656608
 typography_spectrum: 0.50554
@@ -24,6 +24,6 @@ color:
     - '#363942'
   brandStrength: 0.46679829922504723
   lightness: 0.459230360109359
-  saturation: 0.0625
+  saturation: 0.25
   rhythmicContrast: 0.667369662085548
 purpose: []
