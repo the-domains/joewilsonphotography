@@ -5,21 +5,21 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Red Fox - Algonquin Park
-datePublished: '2016-08-20T22:16:59.636Z'
-dateModified: '2016-08-20T22:16:28.986Z'
+datePublished: '2016-08-20T22:23:18.560Z'
+dateModified: '2016-08-20T22:23:18.217Z'
 title: ''
 author:
   - name: ''
     url: ''
 via: {}
+sourcePath: _posts/2016-08-20-red-fox-algonquin-park.md
 authors: []
 publisher:
-  name: ''
+  name: null
   domain: null
-  url: ''
+  url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-08-20-red-fox-algonquin-park.md
 url: red-fox-algonquin-park/index.html
 _type: Article
 
