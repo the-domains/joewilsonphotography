@@ -1,20 +1,4 @@
-name: Joe Wilson Photography
-favicon: null
-layout_spectrum: 0.37974
 typography_spectrum: 0.50554
-title: The World Of Nature Through My Lens
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#D8CAA8'
@@ -26,4 +10,23 @@ color:
   lightness: 0.1875
   saturation: 0.1875
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.37974
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Joe Wilson
+  email: joe@joewilson.ca
+name: Joe Wilson Photography
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: The World Of Nature Through My Lens
 purpose: []
