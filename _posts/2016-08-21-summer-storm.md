@@ -1,13 +1,13 @@
 ---
-description: Summer Storm
-dateModified: '2016-08-21T02:44:25.790Z'
-datePublished: '2016-08-21T02:44:43.354Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-21T02:46:29.824Z'
 sourcePath: _posts/2016-08-21-summer-storm.md
+author: []
+via: {}
+dateModified: '2016-08-21T02:46:29.480Z'
+title: ''
+publisher: {}
+description: Summer Storm
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
