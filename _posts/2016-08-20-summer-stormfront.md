@@ -1,7 +1,7 @@
 ---
 description: Summer Stormfront
-dateModified: '2016-08-20T18:38:51.993Z'
-datePublished: '2016-08-20T18:39:10.125Z'
+dateModified: '2016-08-20T18:42:09.023Z'
+datePublished: '2016-08-21T00:16:25.518Z'
 title: ''
 author: []
 publisher: {}
@@ -13,7 +13,7 @@ inNav: false
 inLanguage: null
 keywords: []
 authors: []
-starred: true
+starred: false
 _type: Blurb
 
 ---
