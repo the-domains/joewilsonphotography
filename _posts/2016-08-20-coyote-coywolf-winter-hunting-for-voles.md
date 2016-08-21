@@ -5,19 +5,21 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Coyote (Coywolf) Winter hunting for Voles
-datePublished: '2016-08-20T21:45:11.434Z'
-dateModified: '2016-08-20T21:45:00.563Z'
+datePublished: '2016-08-20T21:57:34.268Z'
+dateModified: '2016-08-20T21:50:56.802Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 via: {}
+sourcePath: _posts/2016-08-20-coyote-coywolf-winter-hunting-for-voles.md
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: false
-sourcePath: _posts/2016-08-20-coyote-coywolf-winter-hunting-for-voles.md
 url: coyote-coywolf-winter-hunting-for-voles/index.html
 _type: Article
 
