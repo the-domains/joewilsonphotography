@@ -1,13 +1,13 @@
 ---
-description: Burrowing Owl Florida
-dateModified: '2016-08-22T03:09:32.965Z'
-datePublished: '2016-08-22T03:09:45.609Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-22T03:12:03.186Z'
 sourcePath: _posts/2016-08-22-burrowing-owl-florida.md
+author: []
+via: {}
+dateModified: '2016-08-22T03:12:02.746Z'
+title: ''
+publisher: {}
+description: Burrowing Owl Florida
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
