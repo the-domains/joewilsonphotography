@@ -1,13 +1,13 @@
 ---
-description: Snowy Owl just before it flew over my head
-dateModified: '2016-08-22T01:59:58.419Z'
-datePublished: '2016-08-22T02:00:12.907Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-22T03:13:40.403Z'
 sourcePath: _posts/2016-08-22-snowy-owl-just-before-it-flew-over-my-head.md
+author: []
+via: {}
+dateModified: '2016-08-22T03:13:40.088Z'
+title: ''
+publisher: {}
+description: Snowy Owl just before it flew over my head
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
