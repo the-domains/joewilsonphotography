@@ -1,13 +1,13 @@
 ---
-description: Red Fox in Moss
-dateModified: '2016-08-22T02:03:38.980Z'
-datePublished: '2016-08-22T02:03:48.148Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-22T03:12:38.989Z'
 sourcePath: _posts/2016-08-22-red-fox-in-moss.md
+author: []
+via: {}
+dateModified: '2016-08-22T03:12:38.593Z'
+title: ''
+publisher: {}
+description: Red Fox in Moss
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
