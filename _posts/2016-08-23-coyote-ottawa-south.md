@@ -1,13 +1,13 @@
 ---
-description: Coyote Ottawa South
-dateModified: '2016-08-23T15:06:05.510Z'
-datePublished: '2016-08-23T15:06:09.458Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-24T00:32:21.774Z'
 sourcePath: _posts/2016-08-23-coyote-ottawa-south.md
+author: []
+via: {}
+dateModified: '2016-08-24T00:32:21.262Z'
+title: ''
+publisher: {}
+description: Coyote Ottawa South
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
