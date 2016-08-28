@@ -1,19 +1,19 @@
 ---
-description: Fox Kits- Perth Ontario
-dateModified: '2016-08-21T13:15:51.680Z'
-datePublished: '2016-08-21T13:16:01.603Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-27T16:34:03.834Z'
 sourcePath: _posts/2016-08-21-fox-kits-perth-ontario.md
+author: []
+via: {}
+dateModified: '2016-08-27T16:34:02.760Z'
+title: ''
+publisher: {}
+description: Red Fox Kits Having Dinner - Algonquin Park
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d37709aa-9c9e-4e1d-bbd2-f17ffc0bc168.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0a940b3-9f0a-4e57-bbb0-ee4bfeb14955.jpg)
 
-Fox Kits- Perth Ontario
+Red Fox Kits Having Dinner - Algonquin Park
